@@ -1,7 +1,6 @@
-                                 Student Performance Analysis System (Synthetic Data)
-                Problem Statement
-
-                      Educational institutions generate large amounts of student data, but manual analysis is difficult and time-consuming. This project builds a simple system to generate and analyze student performance data to identify trends, top performers, and students who need improvement.
+<h1>Student Performance Analysis System (Synthetic Data)<h1>
+Problem Statement
+ Educational institutions generate large amounts of student data, but manual analysis is difficult and time-consuming. This project builds a simple system to generate and analyze student performance data to identify trends, top performers, and students who need improvement.
 
                  Dataset
 
